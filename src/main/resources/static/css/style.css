@@ -1,0 +1,139 @@
+*{
+    font-family: 'Noto Sans', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+input{
+    color: gray;
+}
+input[type="datetime-local" i] {
+    padding: 1px 2px;
+}
+h1,h2,h3{
+    font-family: 'Oswald', sans-serif;
+}
+a{
+    scale: 1;
+    transition:all 1s ease-out;
+    font-size: x-large;
+}
+i{
+    font-size: xx-large;
+}
+a:hover {
+    scale: 1.2;
+    transition:all 1s ease-out;
+}
+a:focus{
+    scale: 1.2;
+    transition:all 1s ease-out;
+}
+
+body{
+    background: linear-gradient(257deg, #adf7b6, #a0ced9);
+    background-size: 400% 400%;
+    -webkit-animation: background-animation 38s ease infinite;
+    -moz-animation: background-animation 38s ease infinite;
+    -o-animation: background-animation 38s ease infinite;
+    animation: background-animation 38s ease infinite;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background: black;
+    width: 25vw;
+    height: max-content;
+    align-items: stretch;
+    padding: 1vw;
+    align-content: center;
+    box-shadow: black 1px 9px 19px;
+}
+main input{
+    width: 100%;
+}
+main h2{
+    margin-top: 6vh;
+}
+.main-form{
+    align-items: center;
+}
+.container-icon-list{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    gap: 2vh;
+    border-bottom: 5px solid #a0ced9;
+    padding: 2vh;
+}
+.container-icon-list-no-border{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    gap: 2vh;
+    
+    padding: 0 2vw 2vh 2vw;
+}
+
+
+.container-icon-list div{
+    display: flex;
+    gap: 1vh;
+    flex-direction: column;
+}
+
+button {
+	box-shadow: 0px 0px 0px 2px #ffffff;
+	background-color:#000000;
+	border-radius:2px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:8px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+    width: -webkit-fill-available;
+}
+button:hover {
+	background-color:#ffffff;
+    color: black;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
+
+        
+
+/*Animacion*/
+@-webkit-keyframes background-animation {
+    0%{background-position:61% 0%}
+    50%{background-position:40% 100%}
+    100%{background-position:61% 0%}
+}
+@-moz-keyframes background-animation {
+    0%{background-position:61% 0%}
+    50%{background-position:40% 100%}
+    100%{background-position:61% 0%}
+}
+@-o-keyframes background-animation {
+    0%{background-position:61% 0%}
+    50%{background-position:40% 100%}
+    100%{background-position:61% 0%}
+}
+@keyframes background-animation {
+    0%{background-position:61% 0%}
+    50%{background-position:40% 100%}
+    100%{background-position:61% 0%}
+}

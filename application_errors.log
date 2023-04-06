@@ -1,0 +1,239 @@
+JSON parse error: Cannot construct instance of `com.dh.clinica.entity.Odontologo` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (1)
+JSON parse error: Cannot construct instance of `com.dh.clinica.entity.Odontologo` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (1)
+JSON parse error: Cannot construct instance of `com.dh.clinica.entity.Odontologo` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (1)
+JSON parse error: Cannot construct instance of `com.dh.clinica.entity.Odontologo` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('1')
+JSON parse error: Cannot construct instance of `com.dh.clinica.entity.Odontologo` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (1)
+JSON parse error: Cannot construct instance of `com.dh.clinica.entity.Odontologo` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (1)
+JSON parse error: Unexpected character ('}' (code 125)): was expecting a colon to separate field name and value
+JSON parse error: Unexpected character ('1' (code 49)): was expecting double-quote to start field name
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["paciente"]->com.dh.clinica.entity.Paciente$HibernateProxy$wKfDKmtu["hibernateLazyInitializer"])
+Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "id{0}"
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["paciente"]->com.dh.clinica.entity.Paciente$HibernateProxy$wKfDKmtu["hibernateLazyInitializer"])
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["paciente"]->com.dh.clinica.entity.Paciente$HibernateProxy$wKfDKmtu["hibernateLazyInitializer"])
+JSON parse error: Cannot construct instance of `com.dh.clinica.entity.Paciente` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (2)
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["paciente"]->com.dh.clinica.entity.Paciente$HibernateProxy$Etvif73W["hibernateLazyInitializer"])
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+Request method 'DELETE' is not supported
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Paciente
+JSON parse error: Cannot construct instance of `com.dh.clinica.entity.Odontologo` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (1)
+JSON parse error: Cannot construct instance of `com.dh.clinica.entity.Odontologo` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (1)
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+detached entity passed to persist: com.dh.clinica.entity.Odontologo
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["odontologo"]->com.dh.clinica.entity.Odontologo$HibernateProxy$ATKcw5yx["hibernateLazyInitializer"])
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["odontologo"]->com.dh.clinica.entity.Odontologo$HibernateProxy$ATKcw5yx["hibernateLazyInitializer"])
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["odontologo"]->com.dh.clinica.entity.Odontologo$HibernateProxy$ATKcw5yx["hibernateLazyInitializer"])
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["odontologo"]->com.dh.clinica.entity.Odontologo$HibernateProxy$qgIMdrh1["hibernateLazyInitializer"])
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["odontologo"]->com.dh.clinica.entity.Odontologo$HibernateProxy$qgIMdrh1["hibernateLazyInitializer"])
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["odontologo"]->com.dh.clinica.entity.Odontologo$HibernateProxy$mxQ9xg0A["hibernateLazyInitializer"])
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["odontologo"]->com.dh.clinica.entity.Odontologo$HibernateProxy$mxQ9xg0A["hibernateLazyInitializer"])
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["odontologo"]->com.dh.clinica.entity.Odontologo$HibernateProxy$tWYFnG4y["hibernateLazyInitializer"])
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Turno["odontologo"]->com.dh.clinica.entity.Odontologo$HibernateProxy$0xWwsXEE["hibernateLazyInitializer"])
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Content-Type 'applications/json;charset=UTF-8' is not supported
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+JSON parse error: Cannot deserialize value of type `int` from String "134234322345": Overflow: numeric value (134234322345) out of range of int (-2147483648 -2147483647)
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Invalid mime type "applications.json": does not contain '/'
+Content-Type 'applications/json;charset=UTF-8' is not supported
+Content-Type 'applications/json;charset=UTF-8' is not supported
+Content-Type 'applications/json;charset=UTF-8' is not supported
+Content-Type 'applications/json;charset=UTF-8' is not supported
+JSON parse error: Cannot deserialize value of type `int` from String "12333333333331": Overflow: numeric value (12333333333331) out of range of int (-2147483648 -2147483647)
+Content-Type 'applications/json;charset=UTF-8' is not supported
+Content-Type 'applications/json;charset=UTF-8' is not supported
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "121212-12-12T12:12": not a valid representation (error: Failed to parse Date value '121212-12-12T12:12': Cannot parse date "121212-12-12T12:12": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "121212-12-12T12:01": not a valid representation (error: Failed to parse Date value '121212-12-12T12:01': Cannot parse date "121212-12-12T12:01": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "212121-11-11T11:11": not a valid representation (error: Failed to parse Date value '212121-11-11T11:11': Cannot parse date "212121-11-11T11:11": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "121212-12-12T12:12": not a valid representation (error: Failed to parse Date value '121212-12-12T12:12': Cannot parse date "121212-12-12T12:12": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "111111-11-11T11:11": not a valid representation (error: Failed to parse Date value '111111-11-11T11:11': Cannot parse date "111111-11-11T11:11": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "111111-11-11T11:11": not a valid representation (error: Failed to parse Date value '111111-11-11T11:11': Cannot parse date "111111-11-11T11:11": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "111111-11-11T11:11": not a valid representation (error: Failed to parse Date value '111111-11-11T11:11': Cannot parse date "111111-11-11T11:11": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "121123-03-12T12:23": not a valid representation (error: Failed to parse Date value '121123-03-12T12:23': Cannot parse date "121123-03-12T12:23": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "111111-11-11T11:11": not a valid representation (error: Failed to parse Date value '111111-11-11T11:11': Cannot parse date "111111-11-11T11:11": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "111111-11-11T11:11": not a valid representation (error: Failed to parse Date value '111111-11-11T11:11': Cannot parse date "111111-11-11T11:11": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "111111-11-11T11:11": not a valid representation (error: Failed to parse Date value '111111-11-11T11:11': Cannot parse date "111111-11-11T11:11": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "111111-11-01T11:11": not a valid representation (error: Failed to parse Date value '111111-11-01T11:11': Cannot parse date "111111-11-01T11:11": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "111123-11-11T12:31": not a valid representation (error: Failed to parse Date value '111123-11-11T12:31': Cannot parse date "111123-11-11T12:31": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Domicilio["paciente"]->com.dh.clinica.entity.Paciente$HibernateProxy$28EDKnmt["hibernateLazyInitializer"])
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Domicilio["paciente"]->com.dh.clinica.entity.Paciente$HibernateProxy$28EDKnmt["hibernateLazyInitializer"])
+No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.dh.clinica.entity.Domicilio["paciente"]->com.dh.clinica.entity.Paciente$HibernateProxy$28EDKnmt["hibernateLazyInitializer"])
+org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.dh.clinica.entity.Domicilio.paciente -> com.dh.clinica.entity.Paciente
+org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.dh.clinica.entity.Domicilio.paciente -> com.dh.clinica.entity.Paciente
+org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.dh.clinica.entity.Domicilio.paciente -> com.dh.clinica.entity.Paciente
+org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.dh.clinica.entity.Domicilio.paciente -> com.dh.clinica.entity.Paciente
+JSON parse error: Cannot construct instance of `com.dh.clinica.entity.Paciente` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('OK')
+org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.dh.clinica.entity.Domicilio.paciente -> com.dh.clinica.entity.Paciente
+org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.dh.clinica.entity.Domicilio.paciente -> com.dh.clinica.entity.Paciente
+org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.dh.clinica.entity.Domicilio.paciente -> com.dh.clinica.entity.Paciente
+org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.dh.clinica.entity.Domicilio.paciente -> com.dh.clinica.entity.Paciente
+Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "list"
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+Request method 'POST' is not supported
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "123123-03-12T13:01": not a valid representation (error: Failed to parse Date value '123123-03-12T13:01': Cannot parse date "123123-03-12T13:01": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "12312-03-12T12:03": not a valid representation (error: Failed to parse Date value '12312-03-12T12:03': Cannot parse date "12312-03-12T12:03": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "crear"
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "12312-03-12T12:03": not a valid representation (error: Failed to parse Date value '12312-03-12T12:03': Cannot parse date "12312-03-12T12:03": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "crear"
+Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "crear"
+Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "crear"
+Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "crear"
+Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "crear"
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+JSON parse error: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+JSON parse error: Unexpected character ('-' (code 45)): was expecting comma to separate Object entries
+JSON parse error: Unexpected character ('-' (code 45)): was expecting comma to separate Object entries
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+Request method 'POST' is not supported
+JSON parse error: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+could not execute statement; SQL [n/a]; constraint [null]
+Request method 'POST' is not supported
+JSON parse error: Cannot deserialize value of type `java.util.Date` from String "123123-02-12T21:03": not a valid representation (error: Failed to parse Date value '123123-02-12T21:03': Cannot parse date "123123-02-12T21:03": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'POST' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'POST' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'PUT' is not supported
+Request method 'POST' is not supported
+Request method 'POST' is not supported
+Request method 'POST' is not supported
+Request method 'POST' is not supported
+Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "crear"
+detached entity passed to persist: com.dh.clinica.entity.Domicilio
+More than one row with the given identifier was found: 45, for class: com.dh.clinica.entity.Paciente
+More than one row with the given identifier was found: 45, for class: com.dh.clinica.entity.Paciente
+More than one row with the given identifier was found: 45, for class: com.dh.clinica.entity.Paciente
+More than one row with the given identifier was found: 45, for class: com.dh.clinica.entity.Paciente
+More than one row with the given identifier was found: 45, for class: com.dh.clinica.entity.Paciente
+More than one row with the given identifier was found: 45, for class: com.dh.clinica.entity.Paciente

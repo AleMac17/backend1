@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/f85419a52c.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script type="text/javascript" src="/js/get-paciente.js"></script>
+    <script type="text/javascript" src="/js/put-paciente.js"></script>
+    <script type="text/javascript" src="/js/delete-paciente.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a class="nav-link" href="/site/alta-paciente.html/">Agregar nuevo</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/site/lista-paciente.html/">Todas</a>
+            </li>
+        </ul>
+    
+        <div id="div_paciente_table">
+            <h1>Pacientes</h1>
+            <div class="row col-md-6 table-responsive">
+                <table id="pacienteTable" class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nombre</th>
+                        <th>Apellido</th>
+                        <th>DNI</th>
+                        <th>Fecha de Alta</th>
+                        <th>Id Domicilio</th>
+                        <th>Calle</th>
+                        <th>Numero</th>
+                        <th>Localidad</th>
+                        <th>Provincia</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6" style="display: none; background-color:#e6fffa; padding:10px; border-radius:3px" id="div_paciente_updating">
+                <form id="update_paciente_form">
+                    <div class="form-group">
+                        <label >Id:</label>
+                        <input type="text" class="form-control" id="paciente_id" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label >Nombre:</label>
+                        <input type="text" class="form-control" placeholder="Nombre" id="nombre">
+                    </div>
+                    <div class="form-group">
+                        <label >Apellido:</label>
+                        <input type="text" class="form-control" placeholder="Apellido" id="apellido">
+                    </div>
+                    <div class="form-group">
+                        <label >DNI:</label>
+                        <input type="text" class="form-control" placeholder="DNI" id="dni">
+                    </div>
+                    <div class="form-group">
+                        <label >fecha de Alta:</label>
+                        <input type="text" class="form-control" placeholder="fechaDeAlta" id="fechaDeAlta">
+                    </div>
+                    <div class="form-group">
+                        <label >Id Domicilio</label>
+                        <input type="text" class="form-control" placeholder="IdDomicilio" id="domicilio_id" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label >Calle</label>
+                        <input type="text" class="form-control" placeholder="Calle" id="calle">
+                    </div>
+                    <div class="form-group">
+                        <label >Numero:</label>
+                        <input type="text" class="form-control" placeholder="Numero" id="numero">
+                    </div>
+                    <div class="form-group">
+                        <label >Localidad:</label>
+                        <input type="text" class="form-control" placeholder="Localidad" id="localidad">
+                    </div>
+                    <div class="form-group">
+                        <label >Provincia</label>
+                        <input type="text" class="form-control" placeholder="Provincia" id="provincia">
+                    </div>
+                    <button type="submit" class="btn btn-primary" id="update_paciente_form">Modificar</button>
+                </form>
+                <div id="response" style="display:none; margin:10px">
+                </div>
+            </div>
+        </div>
+        <hr>
+    </div>
+    </body>
+    </html>

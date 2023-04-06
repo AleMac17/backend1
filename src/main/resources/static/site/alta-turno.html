@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/f85419a52c.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script type="text/javascript" src="/js/post-turno.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <main class="animate__animated animate__fadeIn main-form">
+        <h2>Alta Turno</h2>
+        <form class="container-icon-list-no-border" id="nuevo-odontologo">
+            <i class="fa-solid fa-calendar"></i>
+            <label for="fechaDeTurno">Fecha de Turno</label>
+            <input type="datetime-local" name="fechaDeTurno" id="fechaDeTurno">
+            <label for="nombre">Id del Odontologo</label>
+            <input type="text" nombre="idOdontologo" id="idOdontologo" placeholder="Ingrese el id">
+            <label for="nombre">Id del Paciente</label>
+            <input type="text" nombre="idPaciente" id="idPaciente" placeholder="Ingrese el id">
+            <button type="reset">Limpiar</button>
+            <button type="submit" id="enviar">Enviar</button>
+        </form>
+    </main>
+</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/f85419a52c.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script type="text/javascript" src="/js/get-odontologo.js"></script>
+    <script type="text/javascript" src="/js/put-odontologo.js"></script>
+    <script type="text/javascript" src="/js/delete-odontologo.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <ul class="nav nav-pills">
+            <li class="nav-item">
+                <a class="nav-link" href="/site/alta-odontologo.html/">Agregar nuevo</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/site/lista-odontologo.html/">Todas</a>
+            </li>
+        </ul>
+    
+        <div id="div_odontologo_table">
+            <h1>Odontologos</h1>
+            <div class="row col-md-6 table-responsive">
+                <table id="odontologoTable" class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nombre</th>
+                        <th>Apellido</th>
+                        <th>Matricula</th>
+                        <th></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6" style="display: none; background-color:#e6fffa; padding:10px; border-radius:3px" id="div_odontologo_updating">
+                <form id="update_odontologo_form">
+                    <div class="form-group">
+                        <label >Id:</label>
+                        <input type="text" class="form-control" id="odontologo_id" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label >Nombre:</label>
+                        <input type="text" class="form-control" placeholder="Nombre" id="nombre">
+                    </div>
+                    <div class="form-group">
+                        <label >Apellido:</label>
+                        <input type="text" class="form-control" placeholder="Apellido" id="apellido">
+                    </div>
+                    <div class="form-group">
+                        <label >Matricula:</label>
+                        <input type="text" class="form-control" placeholder="Matricula" id="matricula">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Modificar</button>
+                </form>
+                <div id="response" style="display:none; margin:10px">
+                </div>
+            </div>
+        </div>
+        <hr>
+    </div>
+    </body>
+    </html>
